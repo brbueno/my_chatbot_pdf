@@ -1,0 +1,6 @@
+A inteligência artificial é uma área da computação focada em criar sistemas capazes de executar tarefas que normalmente exigem inteligência humana.
+Modelos de linguagem são capazes de interpretar texto, gerar respostas e auxiliar em processos de automação.
+Embeddings são representações numéricas que capturam o significado de palavras e frases, permitindo buscas semânticas.
+Sistemas de busca vetorial utilizam esses embeddings para encontrar informações relevantes com base no contexto.
+Chatbots inteligentes combinam modelos de linguagem com mecanismos de recuperação de informação para fornecer respostas mais precisas.
+A IA tem aplicações em diversas áreas, como saúde, educação, engenharia de software e pesquisa científica.
